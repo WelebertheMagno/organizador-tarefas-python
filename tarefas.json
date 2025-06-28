@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Comprar pão",
+        "prioridade": "Média",
+        "status": "Concluída"
+    },
+    {
+        "nome": "Fazer café",
+        "prioridade": "Média",
+        "status": "Concluída"
+    },
+    {
+        "nome": "Trabalhar",
+        "prioridade": "Alta",
+        "status": "Pendente"
+    }
+]
