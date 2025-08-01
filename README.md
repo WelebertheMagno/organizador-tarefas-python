@@ -1,20 +1,20 @@
 # 🗂️ Organizador de Tarefas em Python
 
-Este é um projeto simples feito em Python para organizar suas tarefas do dia a dia diretamente no terminal.
+Projeto pessoal desenvolvido em Python para gerenciar tarefas de forma simples e prática.  
+Permite adicionar, listar, editar e remover tarefas, tudo através de uma interface de linha de comando.
 
-### ✅ Funcionalidades
-- Adicionar novas tarefas com prioridade (Alta, Média ou Baixa)
-- Listar todas as tarefas cadastradas
-- Marcar tarefas como concluídas
-- Exibir somente tarefas pendentes
-- Salvar as tarefas automaticamente em um arquivo `.json` (mesmo após fechar o programa)
+## 🚀 Funcionalidades
+- ✅ Adicionar novas tarefas
+- 📋 Listar tarefas existentes
+- ✏️ Editar tarefas cadastradas
+- ❌ Remover tarefas
 
----
+## ⚙️ Tecnologias usadas
+- Python 3.x
 
-### ▶️ Como executar
-
-1. Clone este repositório:
-
+## 📦 Como executar
+Clone o repositório e execute o arquivo principal:
 ```bash
-git clone https://github.com/WelebertheMagno/organizador-tarefas-python.git
+git clone https://github.com/WelebertheMagno/organizador-tarefas-python
 cd organizador-tarefas-python
+python main.py
